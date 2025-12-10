@@ -24,7 +24,7 @@
 <p>Fill out the form below and I’ll reply within a few hours.</p>
 
 
-<form action="https://formspree.io/f/yourFormID" method="POST" class="contact-form">
+<form action=tvids584@yahoo.com method="POST" class="contact-form">
 <input type="text" name="name" placeholder="Your Name" required />
 <input type="email" name="email" placeholder="Your Email" required />
 <textarea name="message" rows="6" placeholder="Tell me what you need…" required></textarea>
