@@ -1,0 +1,68 @@
+## **pricing.html**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Pricing</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="navbar">
+<h1 class="logo">Microservice Studio</h1>
+<nav>
+<a href="index.html">Home</a>
+<a class="active" href="pricing.html">Pricing</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<section class="pricing-section fade-in">
+<h2>Choose Your Package</h2>
+<div class="pricing-grid">
+<div class="price-card hover-rise">
+<h3>Starter</h3>
+<p class="price">$75 – $150</p>
+<ul>
+<li>Single micro‑service</li>
+<li>24–48 hour delivery</li>
+<li>1 revision</li>
+</ul>
+</div>
+
+
+<div class="price-card featured hover-rise">
+<h3>Standard</h3>
+<p class="price">$150 – $300</p>
+<ul>
+<li>Two micro‑services</li>
+<li>Priority delivery</li>
+<li>2 revisions</li>
+</ul>
+</div>
+
+
+<div class="price-card hover-rise">
+<h3>Premium</h3>
+<p class="price">$300 – $500</p>
+<ul>
+<li>Three micro‑services</li>
+<li>Same‑day delivery</li>
+<li>Unlimited revisions (48h window)</li>
+</ul>
+</div>
+</div>
+</section>
+
+
+<footer>
+<p>© 2025 Microservice Studio. All rights reserved.</p>
+</footer>
+</body>
+</html>
+```
+
+
+---
