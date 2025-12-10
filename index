@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Microservice Studio</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="navbar">
+<h1 class="logo">Microservice Studio</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="pricing.html">Pricing</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<section class="hero fade-in">
+<h2>Fast, Done‑For‑You Micro‑Services</h2>
+<p>Professional landing pages, video edits, resumes and more — delivered within 24–48 hours.</p>
+<a href="pricing.html" class="cta-btn">View Packages</a>
+</section>
+
+
+<section class="services">
+<div class="card hover-rise">
+<h3>Landing Page Copy</h3>
+<p>SEO‑optimized copy that converts visitors into customers.</p>
+</div>
+<div class="card hover-rise">
+<h3>Short‑Form Video Editing</h3>
+<p>Fast, scroll‑stopping edits for TikTok, Reels, and Shorts.</p>
+</div>
+<div class="card hover-rise">
+<h3>Resume + LinkedIn Rewrite</h3>
+<p>ATS‑optimized and employer‑ready personal branding.</p>
+</div>
+</section>
+
+
+<footer>
+<p>© 2025 Microservice Studio. All rights reserved.</p>
+</footer>
+</body>
+</html>
+```
+
+
+---
