@@ -1,0 +1,44 @@
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Contact</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header class="navbar">
+<h1 class="logo">Microservice Studio</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="pricing.html">Pricing</a>
+<a class="active" href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<section class="contact-section fade-in">
+<h2>Work With Me</h2>
+<p>Fill out the form below and I’ll reply within a few hours.</p>
+
+
+<form action="https://formspree.io/f/yourFormID" method="POST" class="contact-form">
+<input type="text" name="name" placeholder="Your Name" required />
+<input type="email" name="email" placeholder="Your Email" required />
+<textarea name="message" rows="6" placeholder="Tell me what you need…" required></textarea>
+<button type="submit" class="cta-btn">Send Message</button>
+</form>
+</section>
+
+
+<footer>
+<p>© 2025 Microservice Studio. All rights reserved.</p>
+</footer>
+</body>
+</html>
+```
+
+
+---
